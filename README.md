@@ -14,13 +14,14 @@ Moodverse is a simple yet powerful web app that delivers *motivational* or *rela
 
 ---
 
-## 🛠 Built With
+## 🛠 Tech Stack
 
-- ⚛ *React.js* – Frontend framework  
-- 🔷 *TypeScript* – Typed JavaScript  
-- 🎨 *Tailwind CSS* – Utility-first CSS framework  
-- 🤖 *Google Gemini API* – Dynamic quote generation + mood detection  
-- ☁ *Firebase* – Deployment and authentication  
+- ⚛ *Nex.js* – The core framework, providing server-side rendering, routing, and a great developer experience.  
+- 🔷 *TypeScript* – Ensures code quality and maintainability by adding static types to JavaScript.  
+- 🎨 *Tailwind CSS* – For styling the application with a utility-first approach, allowing for rapid UI development.
+- 🤖 *Google Gemini API* / *Genkit* – Dynamic quote generation + mood detection + Activity generation.
+- ☁ *Firebase* – Deployment and Authentication.
+- ⚛ *React* – Used for building the user interface with its component-based architecture.
 
 ---
 
@@ -65,7 +66,7 @@ Personalized activity suggestions
 
 ### 4. 📓 Journal Page  
 ![Journal Login Page](https://i.postimg.cc/PxKjFGKR/Journal-login-page.jpg)
-![Journal Page] (https://i.postimg.cc/RVkjdV40/Journal-page.jpg) 
+![Journal Page](https://i.postimg.cc/RVkjdV40/Journal-page.jpg) 
 Private thought recording interface  
 
 ---
