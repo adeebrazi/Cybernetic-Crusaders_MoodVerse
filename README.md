@@ -16,7 +16,7 @@ Moodverse is a simple yet powerful web app that delivers *motivational* or *rela
 
 ## 🛠 Tech Stack
 
-- ⚛ *Nex.js* – The core framework, providing server-side rendering, routing, and a great developer experience.  
+- ⚛ *Next.js* – The core framework, providing server-side rendering, routing, and a great developer experience.  
 - 🔷 *TypeScript* – Ensures code quality and maintainability by adding static types to JavaScript.  
 - 🎨 *Tailwind CSS* – For styling the application with a utility-first approach, allowing for rapid UI development.
 - 🤖 *Google Gemini API* / *Genkit* – Dynamic quote generation + mood detection + Activity generation.
